@@ -1,8 +1,10 @@
-### Hi there, I'm [Celalettin Toprak](https://www.celalettintoprak.com/). <img src="https://github.com/celalettintoprak/celalettintoprak/blob/main/wave.gif" width="30">
+### Hi there, I'm [Celalettin Toprak](https://www.celalettintoprak.com/). <img src="https://github.com/celalettintoprak/celalettintoprak/blob/main/wave.gif" width="30"> ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=celalettintoprak.celalettintoprak)
 
 A Software Engineer & 3D CAD Designer, living in Istanbul!
 
 Celalettin, sometimes people call me Celal. I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative ideas.
+- 💼 any freelance work? do reach, [email](mailto:toprakcelaleddin@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
 
 ### 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/celalettin-toprak/)](https://www.linkedin.com/in/celalettin-toprak/)
@@ -59,19 +61,6 @@ Celalettin, sometimes people call me Celal. I am a tech enthusiast & an open-sou
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 
-### 💻 IDEs/Editors
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
-![PyCharm](https://img.shields.io/badge/Pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-346ac1?style=flat&logo=android%20studio&logoColor=white)
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=flat&logo=apache-netbeans-ide&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/Sublime_Text-%23575757.svg?style=flat&logo=sublime-text&logoColor=important)
-![CodePen](https://img.shields.io/badge/CodePen-white?style=flat&logo=codepen&logoColor=black)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat&logo=notepad%2b%2b&logoColor=black)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white)
-
 ### 🕓 Version Control & 📂 Cloud Storage & ☁️ Hosting/SaaS
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
@@ -99,28 +88,8 @@ Celalettin, sometimes people call me Celal. I am a tech enthusiast & an open-sou
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13)
 
-### 🌐 Browsers
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=flat&logo=Brave&logoColor=white)
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=Firefox-Browser&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat&logo=GoogleChrome&logoColor=white)
-![Safari](https://img.shields.io/badge/Safari-000000?style=flat&logo=Safari&logoColor=white)
-![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=flat&logo=Opera&logoColor=white)
-
-### 💻 Operating System & 🏢 Office & Artificial Intelligence and Bots
-![Microsoft Office](https://img.shields.io/badge/Microsoft-D83B01?style=flat&logo=microsoft-office&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=flat&logo=LibreOffice&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/Mac%20OS-000000?style=flat&logo=macos&logoColor=F0F0F0)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
-![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=flat&logo=kubuntu&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=celalettintoprak&count_private=true&show_icons=true&include_all_commits=true)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=celalettintoprak.celalettintoprak)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=celalettintoprak&theme=codeSTACKr&count_private=true&show_icons=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celalettintoprak&theme=codeSTACKr&layout=compact)](https://github.com/celalettintoprak/)
 
 <!--
 **celalettintoprak/celalettintoprak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
