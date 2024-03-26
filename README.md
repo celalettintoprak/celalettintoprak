@@ -3,12 +3,15 @@
 A Software Engineer & 3D CAD Designer, living in Istanbul!
 
 Celalettin, sometimes people call me Celal. I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative ideas.
+
+<section style="height:250px; columns: 3; gap: 10px;">
+    <img src="assets-img/portfolio-01.jpg"/>
+    <img src="assets-img/portfolio-02.jpg"/>
+    <img src="assets-img/portfolio-03.jpg"/>
+</section>
+
 - 💼 any freelance work? do reach, [email](mailto:toprakcelaleddin@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
-
-<img src="assets-img/portfolio-01.jpg" align="left" />
-<img src="assets-img/portfolio-02.jpg" align="center" />
-<img src="assets-img/portfolio-03.jpg" align="right" />
 
 ### 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/celalettin-toprak/)](https://www.linkedin.com/in/celalettin-toprak/)
