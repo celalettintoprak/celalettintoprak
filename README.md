@@ -1,6 +1,6 @@
 ### Hi there, I'm [Celalettin Toprak](https://www.celalettintoprak.com/). <img src="https://github.com/celalettintoprak/celalettintoprak/blob/main/wave.gif" width="30"> ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=celalettintoprak.celalettintoprak)
 
-A Software Engineer & 3D CAD Designer, living in Istanbul!
+A Software Engineer & 3D CAD Designer, living in Sakarya!
 
 Celalettin, sometimes people call me Celal. I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative ideas.
 
